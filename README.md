@@ -1,3 +1,4 @@
+Theme: minima
 # My first PyGame
 
 ## Goal
