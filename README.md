@@ -1,5 +1,3 @@
-# My first PyGame
-
 ## Goal
 
 Evade the enemy cars, buy moving your car from left to right.
