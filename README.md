@@ -1,6 +1,6 @@
 ## Goal
 
-Evade the enemy cars, buy moving your car from left to right.
+Evade the enemy cars, by moving your car from left to right.
 Survive as long as possible, while the game gets progressively harder as time goes by.
 
 ## Controls
