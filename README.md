@@ -12,3 +12,6 @@ Use your arrow keys or your A and D keys on your keyboard to control your car.
 ![Play Screen 1](https://raw.githubusercontent.com/JanWilliamHaug/FirstGamePyGame/master/GameScreenshot1.jpg)
 
 ![Play Screen 1](https://raw.githubusercontent.com/JanWilliamHaug/FirstGamePyGame/master/GameScreenshot2jpg.jpg)
+
+
+Link to the Source code on Github: https://github.com/JanWilliamHaug/FirstGamePyGame
