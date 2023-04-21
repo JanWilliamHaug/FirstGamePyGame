@@ -15,5 +15,5 @@ Use your arrow keys or your A and D keys on your keyboard to control your car.
 
 
 
-[I'm an inline-style link with title](https://github.com/JanWilliamHaug/FirstGamePyGame "Source code")
+[Source code](https://github.com/JanWilliamHaug/FirstGamePyGame "Source code")
 
