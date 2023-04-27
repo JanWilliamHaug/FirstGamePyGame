@@ -1,11 +1,10 @@
-## Goal
+## Description of the game
 
-Evade the enemy cars, by moving your car from left to right.
-Survive as long as possible, while the game gets progressively harder as time goes by.
+The game is a simple, top-down car racing game where the player controls a yellow car and needs to avoid colliding with an enemy white car moving along the road. The road has two lanes, and the player can switch between these lanes using the 'A' or left arrow key and the 'D' or right arrow key. The game starts at level 1, with a relatively slow speed for the enemy car. As the player progresses, the speed of the enemy car increases, making the game more challenging. The player loses the game when their car collides with the enemy car. The game shows the current level at the top right corner of the screen, and it allows the player to restart or quit the game after losing.
 
-## Controls
+## Design of the Code
 
-Use your arrow keys or your A and D keys on your keyboard to control your car.
+The code design follows a modular approach, where the game's main logic, game functions, and game objects are separated into different files. This separation makes the code easier to read, understand, and maintain.
 
 ## Screenshots 
 
