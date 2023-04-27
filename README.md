@@ -14,17 +14,7 @@ In this Car Game, you control a yellow car that needs to avoid colliding with an
 <source src="https://user-images.githubusercontent.com/71844869/234753253-e46dce89-da65-477e-91cf-7e462f7b9e1b.mp4" type="video/mp4">
 </video>
 
-
 [Source code](https://github.com/JanWilliamHaug/FirstGamePyGame "Source code")
-
-
-
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=4_7d0Cy8UNo "Now in Android: 55")
-
-
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
 
 ## Installation and Setup
 1. Clone or download the GitHub repository to your local machine.
