@@ -6,7 +6,7 @@ The game is a simple, top-down car racing game where the player controls a yello
 
 The code design follows a modular approach, where the game's main logic, game functions, and game objects are separated into different files. This separation makes the code easier to read, understand, and maintain.
 
-## Screenshots 
+## Demo Video
 
 ![Play Screen 1](https://raw.githubusercontent.com/JanWilliamHaug/FirstGamePyGame/master/GameScreenshot1.jpg)
 
