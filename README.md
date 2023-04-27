@@ -11,7 +11,9 @@ https://user-images.githubusercontent.com/71844869/234753253-e46dce89-da65-477e-
 
 
 
+<video src="https://user-images.githubusercontent.com/71844869/234753253-e46dce89-da65-477e-91cf-7e462f7b9e1b.mp4" >
 
+  </video>
 
 [Source code](https://github.com/JanWilliamHaug/FirstGamePyGame "Source code")
 
