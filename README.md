@@ -8,11 +8,9 @@ The code design follows a modular approach, where the game's main logic, game fu
 
 ## Demo Video
 
-![Play Screen 1](https://raw.githubusercontent.com/JanWilliamHaug/FirstGamePyGame/master/GameScreenshot1.jpg)
 
-![Play Screen 1](https://raw.githubusercontent.com/JanWilliamHaug/FirstGamePyGame/master/GameScreenshot2jpg.jpg)
 
-[<video src='https://www.youtube.com/watch?v=GZkvvWQQBdU' width=180/>](https://www.youtube.com/watch?v=GZkvvWQQBdU)
+<video src='https://www.youtube.com/watch?v=GZkvvWQQBdU' width=180/>
 
 [Source code](https://github.com/JanWilliamHaug/FirstGamePyGame "Source code")
 
