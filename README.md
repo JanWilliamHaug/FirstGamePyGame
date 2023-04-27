@@ -11,12 +11,10 @@ https://user-images.githubusercontent.com/71844869/234753253-e46dce89-da65-477e-
 
 
 
-<video src="https://user-images.githubusercontent.com/71844869/234753253-e46dce89-da65-477e-91cf-7e462f7b9e1b.mp4" >
   <video controls="" width="800" height="500" muted="" loop="" autoplay="">
 <source src="https://user-images.githubusercontent.com/71844869/234753253-e46dce89-da65-477e-91cf-7e462f7b9e1b.mp4" type="video/mp4">
 </video>
 
-  </video>
 
 [Source code](https://github.com/JanWilliamHaug/FirstGamePyGame "Source code")
 
